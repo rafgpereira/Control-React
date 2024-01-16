@@ -1,17 +1,5 @@
 {
-  "projects": [
-    {
-      "id": "fc9b",
-      "name": "rafa",
-      "budget": "121",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,

@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Control - sistema de gerenciamento de projetos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um sistema de gerenciamento de projetos desenvolvido em JavaScript com a biblioteca React.
 
-## Available Scripts
+## Conteudos aplicados
 
 In the project directory, you can run:
 
