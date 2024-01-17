@@ -34,7 +34,7 @@ function NewProject() {
     }
 
 
-    fetch("http://localhost:5000/projects", {
+    fetch(`${process.env.REACT_APP_URL_BACKEND}/projects`, {
       method: "POST",
       headers: {
         "Content-type": "application/json",
