@@ -24,3 +24,22 @@ Para acessar a aplicação web, clique [aqui](https://control-projects.netlify.a
 - Railway: deployment do JSON server.
 - Netlify: deployment do front-end.
 
+## Demonstração
+
+### Home
+![Home](/src/img/readme-home.png)
+
+### Novo Projeto
+![NovoProjeto](/src/img/readme-newproject.png)
+
+### Projetos
+![Projetos](/src//img/readme-projects.png)
+
+### Projeto
+![Projeto](/src/img/readme-project.png)
+
+### Edição do projeto
+![EditProjeto](/src/img/readme-edit.png)
+
+### Adicionando serviço
+![AddService](/src/img/readme-newservice.png)
